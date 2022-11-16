@@ -1,7 +1,7 @@
-site_name: My Docs
+site_name: CompanyGram
 
-site_url: https://github.com/oa-formation/mkdocs-deploy
-repo_url: https://github.com/squidfunk/mkdocs-material
+#site_url: https://github.com/oa-formation/mkdocs-publish
+repo_url: https://github.com/oa-formation/mkdocs-publish
 
 theme:
   name: material
@@ -9,5 +9,12 @@ theme:
     - navigation.sections
     - navigation.expand
     - navigation.indexes
+nav:
+  - Home: index.md
+  - About: about.md
+  - Images:
+    - Posting Images: images/posting.md
+    - Liking Images: images/liking.md
+    - Sharing Images: images/sharing.md
 
 
