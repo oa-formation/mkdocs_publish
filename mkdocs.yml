@@ -1,5 +1,13 @@
 site_name: My Docs
 
+site_url: https://github.com/oa-formation/mkdocs-deploy
+repo_url: https://github.com/squidfunk/mkdocs-material
+
 theme:
   name: material
+  features:
+    - navigation.sections
+    - navigation.expand
+    - navigation.indexes
+
 
