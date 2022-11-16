@@ -2,6 +2,7 @@ site_name: CompanyGram
 
 #site_url: https://github.com/oa-formation/mkdocs-publish
 repo_url: https://github.com/oa-formation/mkdocs-publish
+repo_name: mkdocs_companygram
 
 theme:
   name: material

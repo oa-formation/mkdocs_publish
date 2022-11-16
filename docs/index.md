@@ -1,6 +1,7 @@
-# Welcome to MkDocs
+# Welcome to CompanyGram
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+This documentation is made to ensure the best possible experience 
+for our user while navigating the website
 
 ## Commands
 
