@@ -69,7 +69,7 @@ nav:
     - Posting Images: display_images/posting_images.md
   - Image Interactions:
       - Liking Images: image_actions/liking.md
-      - Reporting Images: image_actions/report.md
+      - Reporting Images: image_actions/reporting.md
   - User Interactions:
       - Friend groups: users/friends.md
       - Reporting Users: users/report.md
