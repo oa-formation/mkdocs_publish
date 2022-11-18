@@ -1,21 +1,94 @@
 site_name: CompanyGram
 
-#site_url: https://github.com/oa-formation/mkdocs-publish
+site_url: https://oa-formation.github.io/mkdocs_publish/
 repo_url: https://github.com/oa-formation/mkdocs-publish
 repo_name: mkdocs_companygram
 
 theme:
   name: material
+  icon:
+    logo: material/atom-variant
+    favicon: material/atom-variant.svg
   features:
-    - navigation.sections
-    - navigation.expand
+    - navigation.instant
     - navigation.indexes
+    - navigation.top
+    - header.autohide
+    -
+plugins:
+  - mkdocstrings
+  - glightbox:
+      touchNavigation: true
+      loop: false
+      effect: zoom
+      slide_effect: slide
+      width: 100%
+      height: auto
+      zoomable: true
+      draggable: true
+      skip_classes:
+        - custom-skip-class-name
+      auto_caption: false
+      caption_position: bottom
+
+extra_css:
+  - style/extra.css
+
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - md_in_html
+  - pymdownx.keys
+  - pymdownx.inlinehilite
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.smartsymbols
+  - pymdownx.tasklist:
+      custom_checkbox: true
+      clickable_checkbox: true
+  - pymdownx.highlight:
+      linenums: true
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - toc:
+      permalink: true
+
 nav:
   - Home: index.md
+  - Display Images:
+    - Posting Images: display_images/posting_images.md
+  - Image Interactions:
+      - Liking Images: image_actions/liking.md
+      - Reporting Images: image_actions/report.md
+  - User Interactions:
+      - Friend groups: users/friends.md
+      - Reporting Users: users/report.md
+      - Banning Users: users/ban.md
   - About: about.md
-  - Images:
-    - Posting Images: images/posting.md
-    - Liking Images: images/liking.md
-    - Sharing Images: images/sharing.md
+  - Mysql:
+    - Table views: cours/create_table_views.md
+    - Ajouter un Administrateur: cours/shitposting.md
 
+  - Cours:
+      - Ssh: cours/ssh.md
+      - Repos multiples: cours/repos.md
+      - Azure Devops:
+          - Branches et Features: cours/azdevops/branches.md
+          - Pull Requests: cours/azdevops/pull_requests.md
+          - Burndown chart: cours/azdevops/burndown.md
+      - Mkdocs:
+          - Installation: cours/mk/installation.md
+          - Configuration: cours/mk/configuration.md
+          - Deploiement: cours/mk/deploiement.md
+          - Redaction: cours/mk/redaction.md
 

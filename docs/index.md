@@ -1,18 +1,52 @@
-# Welcome to CompanyGram
+# Notre dame de Paris
 
-This documentation is made to ensure the best possible experience 
-for our user while navigating the website
+Il y a aujourd’hui trois cent quarante-huit ans six mois et dix-neuf jours que les Parisiens s’éveillèrent au bruit de toutes les cloches sonnant à grande volée dans la triple enceinte de la Cité, de l’Université et de la Ville.
 
-## Commands
+Ce n’est cependant pas un jour dont l’histoire ait gardé souvenir que le 6 janvier 1482. Rien de notable dans l’événement qui mettait ainsi en branle, dès le matin, les cloches et les bourgeois de Paris. Ce n’était ni un assaut de Picards ou de Bourguignons, ni une châsse menée en procession, ni une révolte d’écoliers dans la vigne de Laas, ni une entrée de notredit très redouté seigneur monsieur le roi, ni même une belle pendaison de larrons et de larronnesses à la Justice de Paris. Ce n’était pas non plus la survenue, si fréquente au quinzième siècle, de quelque ambassade chamarrée et empanachée. Il y avait à peine deux jours que la dernière cavalcade de ce genre, celle des ambassadeurs flamands chargés de conclure le mariage entre le dauphin et Marguerite de Flandre, avait fait son entrée à Paris, au grand ennui de M. le cardinal de Bourbon, qui, pour plaire au roi, avait dû faire bonne mine à toute cette rustique cohue de bourgmestres flamands, et les régaler, en son hôtel de Bourbon, d’une moult belle moralité, sotie et farce, tandis qu’une pluie battante inondait à sa porte ses magnifiques tapisseries.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+???+ tldr "tldr"
+    Le 6 janvier, ce qui mettoit en émotion tout le populaire de Paris, comme dit Jehan de Troyes, c’était la double solennité, réunie depuis un temps immémorial, du jour des Rois et de la Fête des Fous.
 
-## Project layout
+Ce jour-là, il devait y avoir feu de joie à la Grève, plantation de mai à la chapelle de Braque et mystère au Palais de Justice. Le cri en avait été fait la veille à son de trompe dans les carrefours, par les gens de M. le prévôt, en beaux hoquetons de camelot violet, avec de grandes croix blanches sur la poitrine.
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+La foule des bourgeois et des bourgeoises s’acheminait donc de toutes parts dès le matin, maisons et boutiques fermées, vers l’un des trois endroits désignés. Chacun avait pris parti, qui pour le feu de joie, qui pour le mai, qui pour le mystère. Il faut dire, à l’éloge de l’antique bon sens des badauds de Paris, que la plus grande partie de cette foule se dirigeait vers le feu de joie, lequel était tout à fait de saison, ou vers le mystère, qui devait être représenté dans la grand-salle du Palais bien couverte et bien close, et que les curieux s’accordaient à laisser le pauvre mai mal fleuri grelotter tout seul sous le ciel de janvier dans le cimetière de la chapelle de Braque.
+
+!!! note "note"
+    Le peuple affluait surtout dans les avenues du Palais de Justice, parce qu’on savait que les ambassadeurs flamands, arrivés de la surveille, se proposaient d’assister à la représentation du mystère et à l’élection du pape des fous, laquelle devait se faire également dans la grand-salle.
+
+Ce n’était pas chose aisée de pénétrer ce jour-là dans cette grand-salle, réputée cependant alors la plus grande enceinte couverte qui fût au monde (il est vrai que Sauval n’avait pas encore mesuré la grande salle du château de Montargis1). La place du Palais, encombrée de peuple, offrait aux curieux des fenêtres l’aspect d’une mer, dans laquelle cinq ou six rues, comme autant d’embouchures de fleuves, dégorgeaient à chaque instant denouveaux flots de têtes.
+
+???- danger "danger"
+    Les ondes de cette foule, sans cesse grossies, se heurtaient aux angles des maisons qui s’avançaient çà et là, comme autant de promontoires, dans le bassin irrégulier de la place. Au centre de la haute façade gothique1 du Palais, le grand escalier, sans relâche remonté et descendu par un double courant qui, après s’être brisé sous le perron intermédiaire, s’épandait à larges vagues sur ses deux pentes latérales, le grand escalier, dis-je, ruisselait incessamment dans la place comme une cascade dans un lac.
+
+Les cris, les rires, le trépignement de ces mille pieds faisaient un grand bruit et une grande clameur. De temps en temps cette clameur et ce bruit redoublaient, le courant qui poussait toute cette foule vers le grand escalier rebroussait, se troublait, tourbillonnait. C’était une bourrade d’un archer ou le cheval d’un sergent de la prévôté qui ruait pour rétablir l’ordre admirable tradition que la prévôté a léguée à la connétablie, la connétablie à la maréchaussée, et la maréchaussée à notre gendarmerie de Paris.
+
+???+ warning "warning"
+    Aux portes, aux fenêtres, aux lucarnes, sur les toits, fourmillaient des milliers de bonnes figures bourgeoises, calmes et honnêtes, regardant le palais, regardant la cohue, et n’en demandant pas davantage ; car bien des gens à Paris se contentent du spectacle des spectateurs, et c’est déjà pour nous une chose très curieuse qu’une muraille derrière laquelle il se passe quelque chose.
+
+S’il pouvait nous être donné à nous, hommes de 1830, de nous mêler en pensée à ces Parisiens du quinzième siècle et d’entrer avec eux, tiraillés, coudoyés, culbutés, dans cette immense salle du Palais, si étroite le 6 janvier 1482, le spectacle ne serait ni sans intérêt ni sans charme, et nous n’aurions autour de nous que des choses si vieilles qu’elles nous sembleraient toutes neuves.
+
+!!! tip "tip"
+    Si le lecteur y consent, nous essaierons de retrouver par la pensée l’impression qu’il eût éprouvée avec nous en franchissant le seuil de cette grand-salle au milieu de cette cohue en surcot, en hoqueton et en cotte-hardie.
+
+Et d’abord, bourdonnement dans les oreilles, éblouissement dans les yeux. Au-dessus de nos têtes une double voûte en ogive, lambrissée en sculptures de bois, peinte d’azur, fleurdelysée en or ; sous nos pieds, un pavé alternatif de marbre blanc et noir. À quelques pas de nous, un énorme pilier, puis un autre, puis un autre ; en tout sept piliers dans la longueur de la salle, soutenant au milieu de sa largeur les retombées de la double voûte. Autour des quatre premiers piliers, des boutiques de marchands, tout étincelantes de verre et de clinquants ; autour des trois derniers, des bancs de bois de chêne, usés et polis par le haut-de-chausses des plaideurs et la robe des procureurs. À l’entour de la salle, le long de la haute muraille, entre les portes, entre les croisées, entre les piliers, l’interminable rangée des statues de tous les rois de France depuis Pharamond ; les rois fainéants, les bras pendants et les yeux baissés ; les rois vaillants et bataillards, la tête et les mains hardiment levées au ciel. Puis, aux longues fenêtres ogives, des vitraux de mille couleurs ; aux larges issues de la salle, de riches portes finement sculptées ; et le tout, voûtes, piliers, murailles, chambranles, lambris, portes, statues, recouvert du haut en bas d’une splendide enluminure bleu et or, qui, déjà un peu ternie à l’époque où nous la voyons, avait presque entièrement disparu sous la poussière et les toiles d’araignée en l’an de grâce 1549, où Du Breul l’admirait encore par tradition.
+
+!!! success "success"
+    Qu’on se représente maintenant cette immense salle oblongue, éclairée de la clarté blafarde d’un jour de janvier, envahie par une foule bariolée et bruyante qui dérive le long des murs et tournoie autour des sept piliers, et l’on aura déjà une idée confuse de l’ensemble du tableau dont nous allons essayer d’indiquer plus précisément les curieux détails.
+
+Il est certain que, si Ravaillac n’avait point assassiné Henri IV, il n’y aurait point eu de pièces du procès de Ravaillac déposées au greffe du Palais de Justice ; point de complices intéressés à faire disparaître lesdites pièces ; partant, point d’incendiaires obligés, faute de meilleur moyen, à brûler le greffe pour brûler les pièces, et à brûler le Palais de Justice pour brûler le greffe ; par conséquent enfin, point d’incendie de 1618. Le vieux Palais serait encore debout avec sa vieille grand-salle ; je pourrais dire au lecteur : Allez la voir ; et nous serions ainsi dispensés tous deux, moi d’en faire, lui d’en lire une description telle quelle. – Ce qui prouve cette vérité neuve : que les grands événements ont des suites incalculables.
+
+Il est vrai qu’il serait fort possible d’abord que Ravaillac n’eût pas de complices, ensuite que ses complices, si par hasard il en avait, ne fussent pour rien dans l’incendie de 1618. Il en existe deux autres explications très plausibles. Premièrement, la grande étoile enflammée, large d’un pied, haute d’une coudée, qui tomba, comme chacun sait, du ciel sur le Palais, le 7 mars après minuit. Deuxièmement, le quatrain de Théophile :
+
+!!! quote "quote"
+    Certes, ce fut un triste jeu
+
+    Quand à Paris dame Justice,
+
+    Pour avoir mangé trop d’épice,
+
+    Se mit tout le palais en feu.
+
+Quoi qu’on pense de cette triple explication politique, physique, poétique, de l’incendie du Palais de Justice en 1618, le fait malheureusement certain, c’est l’incendie. Il reste bien peu de chose aujourd’hui, grâce à cette catastrophe, grâce surtout aux diverses restaurations successives qui ont achevé ce qu’elle avait épargné, il reste bien peu de chose de cette première demeure des rois de France, de ce palais aîné du Louvre, déjà si vieux du temps de Philippe le Bel qu’on y cherchait les traces des magnifiques bâtiments élevés par le roi Robert et décrits par Helgaldus. Presque tout a disparu. Qu’est devenue la chambre de la chancellerie où saint Louis consomma son mariage ? le jardin où il rendait la justice, « vêtu d’une cotte de camelot, d’un surcot de tiretaine sans manches, et d’un manteau pardessus de sandal noir, couché sur des tapis, avec Joinville » ? Où est la chambre de l’empereur Sigismond ? celle de Charles IV ? celle de Jean sans Terre ? Où est l’escalier d’où Charles VI promulgua son édit de grâce ? la dalle où Marcel égorgea, en présence du dauphin, Robert de Clermont et le maréchal de Champagne ? le guichet où furent lacérées les bulles de l’antipape Bénédict, et d’où repartirent ceux qui les avaient apportées, chapés et mitrés en dérision, et faisant amende honorable par tout Paris ? et la grand-salle, avec sa dorure, son azur, ses ogives, ses statues, ses piliers, son immense voûte toute déchiquetée de sculptures ? et la chambre dorée ? et le lion de pierre qui se tenait à la porte, la tête baissée, la queue entre les jambes, comme les lions du trône de Salomon, dans l’attitude humiliée qui convient à la force devant la justice ? et les belles portes ? et les beaux vitraux ? et les ferrures ciselées qui décourageaient Biscornette ? et les délicates menuiseries de Du Hancy ?… Qu’a fait le temps, qu’ont fait les hommes de ces merveilles ? Que nous a-t-on donné pour tout cela, pour toute cette histoire gauloise, pour tout cet art gothique ? les lourds cintres surbaissés de M. de Brosse, ce gauche architecte du portail Saint-Gervais, voilà pour l’art ; et quant à l’histoire, nous avons les souvenirs bavards du gros pilier, encore tout retentissant des commérages des Patrus.
+
+
